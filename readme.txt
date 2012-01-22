@@ -1,0 +1,1 @@
+This repository hosts my personal samples that I use to learn HTML5.
